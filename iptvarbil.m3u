@@ -1,57 +1,39 @@
 #EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 1
 http://172.20.2.5:8082/Star-Jalsha/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 2
 http://172.20.2.5:8082/ZeeBanglaHD/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 3
 http://172.20.2.5:8082/Jalshamovies/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 4
 http://172.20.2.5:8082/Independent-Tv/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 5
 http://172.20.2.5:8082/Somoy-TV/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 6
 http://172.20.2.5:8082/News24bd/tracks-v1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 7
 http://172.20.2.5:8082/Channel24/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 8
 http://172.20.2.5:8082/ATN-Bangla/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 9
 http://172.20.2.5:8082/Channel-i/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 10
 http://172.20.2.5:8082/Ekushey-TV/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 11
 http://172.20.2.5:8082/Ntv/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 12
 http://172.20.2.5:8082/Special-TV/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 13
 http://172.20.2.5:8082/Star-Select-2/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 14
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 15
 http://172.20.2.5:8082/nike/tracks-v1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 16
 http://172.20.2.5:8082/Nat-Geo/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 17
 http://172.20.2.5:8082/Discovery-Tv/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 18
 http://172.20.2.5:8082/9XM/tracks-a1/index.fmp4.m3u8
-EXTM3U
-#EXTINF:-1
+EXTINF:0,Channel 19
 http://172.20.2.5:8082/GaanBangla/tracks-a1/index.fmp4.m3u8
