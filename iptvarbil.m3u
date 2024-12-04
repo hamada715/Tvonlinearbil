@@ -1,56 +1,55 @@
 #EXTM3U
 
-#EXTINF:0,Jamuna Tv
+#EXTINF:0,Channel 9
 
-http://172.20.21.22/live/skyfeed1021/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=14505&deviceMac=00:1A:79:A7:53:75
+
+#EXTINF:0,ATN BANGLA
+
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2897.ts
+
+#EXTINF:0,Dipto TV
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:0,ATN NEWS
+
+http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:0,Somoy TV
 
-http://172.20.21.22/live/skyfeed1004/index.m3u8
-
-#EXTINF:0,Ekattor Tv
-
-http://172.20.21.22/live/skyfeed1015/index.m3u8
-
-#EXTINF:0,Independent Tv
-
-http://172.20.21.22/live/skyfeed1012/index.m3u8
-
-#EXTINF:0,News24
-
-http://172.20.21.22/live/funtime109/index.m3u8
+ttps://www.youtube.com/embed/-EkNyHXVqBw?si=AyFiDtF9rSmxYvv
 
 #EXTINF:0,Star Jalsha
 
-http://172.20.21.22/live/funtime112/index.m3u8
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
+
+#EXTINF:0,Jamuna TV
+
+https://www.youtube.com/embed/IqMbtsKFirQ?si=tZ-BagXkY0TVeX3p
+
+#EXTINF:0,Channel 24
+
+https://www.youtube.com/embed/a6Gq8ykxXbE?si=Xc_rzdBW2R4hfVmf
 
 #EXTINF:0,Zee Bangla
+https://uspro.click/zeebanglahd/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=6281af1ccc6db8b7996c1b112842fa78f01f5212-290a1dcbff328548a6d835985ac9578a-1733324138-1733313338
 
-http://172.20.21.22/live/funtime111/index.m3u8
+#EXTINF:0,RTV
 
-#EXTINF:0,T-sports
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w951657618.m3u8
 
-http://172.20.21.22/live/skyfeed1005/index.m3u8
+#EXTINF:0,Masti
 
-#EXTINF:0,GTV
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/13242fb1-a73d-4e25-bf50-b8ad0a45b93a/3.m3u8
 
-http://172.20.21.22/live/skyfeed1006/index.m3u8
+#EXTINF:0,Rongeen TV
 
-#EXTINF:0,Colors Bangla
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u88
 
-http://172.20.21.22/live/skyfeed1017/index.m3u8
+#EXTINF:0,Discovery KID
 
-#EXTINF:0,Sony Aath
-
-http://172.20.21.22/live/skyfeed1016/index.m3u8
-
-#EXTINF:0,Nick
-
-http://172.20.21.22/live/funtime110/index.m3u8
-
-#EXTINF:0,Pogo
-
-http://172.20.21.22/live/skyfeed1019/index.m3u8
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
 
 #EXTINF:0,DBC News
 
