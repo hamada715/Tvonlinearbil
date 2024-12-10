@@ -4,40 +4,40 @@
 
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=14505&deviceMac=00:1A:79:A7:53:75
 
-#EXTINF:0,ATN BANGLA
+#EXTINF:0,Somoy tv
 
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2897.ts
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:0,Dipto TV
 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:0,ATN NEWS
+#EXTINF:0,SA TV
 
-http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 
 #EXTINF:0,Star Jalsha $¢
 
-https://uspro.click/starjalsahd/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=8453105d1cb9ae69e95b50309ae5885a44b02174-6751b5ed73f7e99d9bbac63751b4f9d8-1733588030-1733577230
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:0,Star Jalsha
 
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
+https://uspro.click/starjalsahd/index.m3u8?token=795c47bb71e56cd433f372a9b692f5fd52db8482-535801dd02ad2e7d700732b004b4e07c-1733812210-1733801410&amp;autoplay=true
 
 #EXTINF:0,Star jalsha
 
-http://xtv.ooo:8080/52882216/581881255/245898
+http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 
-#EXTINF:0,Channel 24
+#EXTINF:0,Ekushey TV
 
-http://watchindia.net:8880/live/49387/51659/2281.ts
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
-#EXTINF:0,Zee Bangla
-https://uspro.click/zeebanglahd/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=6281af1ccc6db8b7996c1b112842fa78f01f5212-290a1dcbff328548a6d835985ac9578a-1733324138-1733313338
+#EXTINF:0,Gaan Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
 #EXTINF:0,RTV
 
-https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w951657618.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:0,Masti
 
@@ -47,13 +47,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u88
 
-#EXTINF:0,Discovery KID
+#EXTINF:0,VOKTA TV
 
-https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_21.m3u8
+https://vokta.raytahost.com/live/voktatv/chunklist_w1239735664.m3u8
 
-#EXTINF:0,DBC News
+#EXTINF:0,ESPN PRO
 
-http://172.20.21.22/live/funtime108/index.m3u8
+https://server100.betzta.com/lb/espnpre/index.m3u8?token=6b721270b0ce61b68bfdfdfc402d22ae8435e557-5a21e824e6928ea74f8a640100163c0c-1733812735-1733801935&remote=103.57.121.91
 
 #EXTINF:0,Bangla Vision
 
