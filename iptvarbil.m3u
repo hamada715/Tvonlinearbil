@@ -55,21 +55,34 @@ https://vokta.raytahost.com/live/voktatv/chunklist_w1239735664.m3u8
 
 https://server100.betzta.com/lb/espnpre/index.m3u8?token=6b721270b0ce61b68bfdfdfc402d22ae8435e557-5a21e824e6928ea74f8a640100163c0c-1733812735-1733801935&remote=103.57.121.91
 
-#EXTINF:0,Bangla Vision
+#EXTINF:0,Jamuna TV
 
-http://172.20.21.22/live/skyfeed1009/index.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 
-#EXTINF:0,PTV Sports
+#EXTINF:0,Sun Bangla
 
-http://172.20.21.22/live/funtime107/index.m3u8
+https://uspro.click/sunbangla/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=c5d53d5d35dfe04b01ef9ee5910fc5ecfc54818e-2b5792d76c2df877e73431194c676d80-1733909788-1733898988
 
 #EXTINF:0,Masti Music
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
 #EXTINF:0,9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+
 #EXTINF:0,Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 #EXTINF:0, Star Jalsha 2
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,{
+    "name": "Cartoon Network HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1734063501:KeyName=prod_linear:Signature=2Ch7mJ3rH1OhY4Faj5vKK7ngimHuZ2-na2NboaYjBtXx5Ws5oW-0In3QaYdkhM676WAp9K-MiZz3EzJymDKYCg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
