@@ -28,6 +28,12 @@ https://uspro.click/starjalsahd/index.m3u8?token=795c47bb71e56cd433f372a9b692f5f
 
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 
+#EXTINF:0, Color Bangla
+https://cflare.mooo.com/test/colorsbangla.m3u8
+
+#EXTINF:0, Star Jalsha 2
+https://cflare.mooo.com/test/starjalsha.m3u8
+
 #EXTINF:0,Ekushey TV
 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
@@ -72,17 +78,11 @@ https://cflare.mooo.com/test/sports18.m3u8
 #EXTINF:0, Star Plus
 https://cflare.mooo.com/test/starplus.m3u8
 
-#EXTINF:0, Star Jalsha 2
-https://cflare.mooo.com/test/starjalsha.m3u8
-
 #EXTINF:0, Sony Max
 https://cflare.mooo.com/test/sonymax.m3u8
 
 #EXTINF:0, Nick HD
 https://cflare.mooo.com/test/nickhd.m3u8
-
-#EXTINF:0, Color Bangla
-https://cflare.mooo.com/test/colorsbangla.m3u8
 
 #EXTINF:0, Discovery KID
 https://cflare.mooo.com/test/dk.m3u8
