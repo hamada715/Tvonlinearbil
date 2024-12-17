@@ -22,7 +22,7 @@ http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:2
 
 #EXTINF:0,Star Jalsha
 
-https://uspro.click/starjalsahd/index.m3u8?token=795c47bb71e56cd433f372a9b692f5fd52db8482-535801dd02ad2e7d700732b004b4e07c-1733812210-1733801410&amp;autoplay=true
+http://plusbox.tv:8080/StarJalshaHD/index.fmp4.m3u8?token=14b80db00e36333708f61c7fe173a64983441a42-35e1f5411f9a4afd816ed59254f4c88f-1734438636-1734427836
 
 #EXTINF:0,Star jalsha
 
@@ -47,7 +47,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 
 #EXTINF:0,Masti
 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/13242fb1-a73d-4e25-bf50-b8ad0a45b93a/3.m3u8
+http://plusbox.tv:8080/ZeeBanglaHD/index.fmp4.m3u8?token=e98bc680c54559b995b8aa9d6151ea2ab475d5cd-5d2d77e83efa768276757e1c0e0457bf-1734438732-1734427932
 
 #EXTINF:0,Rongeen TV
 
@@ -72,20 +72,20 @@ https://uspro.click/sunbangla/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=c5d5
 #EXTINF:0,Masti Music
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 
-#EXTINF:0,18 Sports
-https://cflare.mooo.com/test/sports18.m3u8
+#EXTINF:0,Star Sports 2
+http://plusbox.tv:8080/StarSports2HD/tracks-a1/index.fmp4.m3u8?token=6213c1a1cd279d154d8e0d51e75de0b177fe6a52-ff1c70a584d3675f6749b94525d2d470-1734438774-1734427974
 
-#EXTINF:0, Star Plus
-https://cflare.mooo.com/test/starplus.m3u8
+#EXTINF:0, Ekhon TV
+http://plusbox.tv:8080/EkhonTV/tracks-a1/index.fmp4.m3u8?token=15a76d63ab5ff17251fb6ba42cf4e01ad19c857c-0f747d8b719914e1bafeca7e35d6f2c1-1734438808-1734428008
 
-#EXTINF:0, Sony Max
-https://cflare.mooo.com/test/sonymax.m3u8
+#EXTINF:0, Jamuna TV
+https://is.gd/6B5C5y
 
-#EXTINF:0, Nick HD
-https://cflare.mooo.com/test/nickhd.m3u8
+#EXTINF:0, Channel 24
+https://is.gd/JjW1bf
 
-#EXTINF:0, Discovery KID
-https://cflare.mooo.com/test/dk.m3u8
+#EXTINF:0, Independent TV
+https://is.gd/uaSSys
 
 #EXTINF:0, National Geography
 https://cflare.mooo.com/test/natgeo.m3u8
