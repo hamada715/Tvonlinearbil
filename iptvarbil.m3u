@@ -75,26 +75,44 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:0,Star Sports 2
 http://plusbox.tv:8080/StarSports2HD/tracks-a1/index.fmp4.m3u8?token=6213c1a1cd279d154d8e0d51e75de0b177fe6a52-ff1c70a584d3675f6749b94525d2d470-1734438774-1734427974
 
-#EXTINF:0, Ekhon TV
-http://plusbox.tv:8080/EkhonTV/tracks-a1/index.fmp4.m3u8?token=15a76d63ab5ff17251fb6ba42cf4e01ad19c857c-0f747d8b719914e1bafeca7e35d6f2c1-1734438808-1734428008
+#EXTINF:0, Peace TV
+https://tvs2.aynaott.com/PeaceTvBanglaHD/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0, Jamuna TV
-https://is.gd/6B5C5y
+#EXTINF:0, Nickelodeon
+https://tvs3.aynaott.com/nicklodean/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0, Channel 24
-https://is.gd/JjW1bf
+#EXTINF:0, AMC
+https://tvs1.aynaott.com/amc/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0, Independent TV
-https://is.gd/uaSSys
+#EXTINF:0, Sky Nature
+https://tvs1.aynaott.com/skynature/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0, National Geography
-https://cflare.mooo.com/test/natgeo.m3u8
+#EXTINF:0, Dhamaka Movie
+https://tvs2.aynaott.com/DhamakaMovies/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0, Discovery
-https://cflare.mooo.com/test/discovery.m3u8
+#EXTINF:0, B4U HITS
+https://tvs2.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0,  Star Sports Select 1
-https://cflare.mooo.com/test/starspsl1.m3u8
+#EXTINF:0,  B4U MOVIES
+https://tvs2.aynaott.com/B4U_Movies_India/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
 
-#EXTINF:0,  TravelXP
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0, MONORANGAN TV
+https://tvs1.aynaott.com/ManoranjanTV/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, BFLIX
+https://tvs1.aynaott.com/Bflix/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, Goldmines Movies
+https://tvs1.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, 9x Tashan
+https://tvs1.aynaott.com/9X_Tashan/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, Music India
+https://tvs1.aynaott.com/MusicIndia/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, Modina TV
+https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+
+#EXTINF:0, 9XM
+https://tvs1.aynaott.com/9xm/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
