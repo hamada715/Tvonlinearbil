@@ -87,34 +87,33 @@ https://tvs1.aynaott.com/amc/index.m3u8?hdnts=st=1734501173~exp=1734544373~acl=/
 #EXTINF:0, Sky Nature
 https://tvs1.aynaott.com/skynature/index.m3u8?hdnts=st=1734501173~exp=1734544373~acl=/buddyxiptv/*~data=103.57.121.91-WEB~hmac=14cee4097c8f31ea52f0bc294ff555ec7d08f5f9d7dadc13f2f10a46971c813a
 
-#EXTINF:0, Dhamaka Movie
-https://tvs2.aynaott.com/DhamakaMovies/index.m3u8?hdnts=st=1734501173~exp=1734544373~acl=/buddyxiptv/*~data=103.57.121.91-WEB~hmac=14cee4097c8f31ea52f0bc294ff555ec7d08f5f9d7dadc13f2f10a46971c813a
+#EXTINF:0, Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1237926012.m3u8
 
-#EXTINF:0, B4U HITS
-https://tvs2.aynaott.com/B4UHitz/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, MusicHLS
+https://mntv.livebox.co.in/musichls/live.m3u8
 
-#EXTINF:0,  B4U MOVIES
-https://tvs2.aynaott.com/B4U_Movies_India/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0,  Joo Music
+https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimblesessionid=201834827
 
-#EXTINF:0, MONORANGAN TV
-https://tvs1.aynaott.com/ManoranjanTV/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, Desi TV
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
-#EXTINF:0, BFLIX
-https://tvs1.aynaott.com/Bflix/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, KIDS FLIX
+https://stream.ads.ottera.tv/cl/241223ctkg8mbf4asoqlktbu90/640x360_350000_2_f.m3u8?i=475_50
 
-#EXTINF:0, Goldmines Movies
-https://tvs1.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, Disney JR
+https://fl2.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, 9x Tashan
-https://tvs1.aynaott.com/9X_Tashan/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, Disney CN
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/chunklist_b1000000_vo.m3u8
 
-#EXTINF:0, Music India
-https://tvs1.aynaott.com/MusicIndia/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, beinSport Esp
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlistR240p.m3u8
 
-#EXTINF:0, Modina TV
-https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
+#EXTINF:0, MUSIC BANGLA
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/live-orgin/musicbangla.stream/chunks.m3u8?nimblesessionid=635487278&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNCA2OjE4OjU1IEFNJmhhc2hfdmFsdWU9VXpZNkc2blRzcjYxcmZZNG1sT212Zz09JnZhbGlkbWludXRlcz01MCZpZD01
 
-#EXTINF:0, 9XM
-https://tvs1.aynaott.com/9xm/tracks-v1a1/mono.ts.m3u8?hdnts=st%3D1734499901%7Eexp%3D1734502901%7Eacl%3D%2Fprantobhai%2F%2A%7Edata%3D185.27.134.187-WEB%7Ehmac%3Dbf067068a076fe8591944424280b26baf06dc737d4b1b0b3056c483822b6b4ed
-
+#EXTINF:0, BBC EARTH
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
