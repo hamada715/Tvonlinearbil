@@ -1,16 +1,20 @@
 #EXTM3U
 
-#EXTINF:0,Channel 9
+#EXTINF:0, JAMUNA TV
 
-http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
+https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/100.ts
 
-#EXTINF:0,Somoy tv
+#EXTINF:0, Ekushey TV
 
-http://172.20.3.1:81/SomoyTVHD/tracks-v1a1/mono.m3u8
+https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/96.ts
 
 #EXTINF:0,Dipto TV
 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:0, Somoy TV
+
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:0,SA TV
 
@@ -31,7 +35,7 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 
 #EXTINF:0, Zee Bangla
-http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
 
 #EXTINF:0,Ekushey TV
 
@@ -40,29 +44,29 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:0,Gaan Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
-#EXTINF:0, EKHON TV
+#EXTINF:0, BTV NEWS
 
-http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
+http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/928141.m3u8
 
-#EXTINF:0, IndependentTV
+#EXTINF:0, Boishaki TV
 
-http://172.20.3.1:81/IndependentTV/tracks-v1a1/mono.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:0,Rongeen TV
+#EXTINF:0,ATN BANGLA
 
-http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
+https://starshare.live/live/KVSingh/KVSingh/431.m3u8
 
 #EXTINF:0,VOKTA TV
 
 https://vokta.raytahost.com/live/voktatv/chunklist_w1239735664.m3u8
 
-#EXTINF:0,ESPN PRO
+#EXTINF:0, DBC NEWS
 
-https://server100.betzta.com/lb/espnpre/index.m3u8?token=6b721270b0ce61b68bfdfdfc402d22ae8435e557-5a21e824e6928ea74f8a640100163c0c-1733812735-1733801935&remote=103.57.121.91
+https://starshare.live/live/KVSingh/KVSingh/420.m3u8
 
-#EXTINF:0,Jamuna TV
+#EXTINF:0,DURONTO TV
 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+https://starshare.live/live/KVSingh/KVSingh/433.m3u8
 
 #EXTINF:0,Sun Bangla
 
