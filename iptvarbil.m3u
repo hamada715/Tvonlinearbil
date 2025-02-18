@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:0, JAMUNA TV
+#EXTINF:0, CHANNEL 24
 
-https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/100.ts
+https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5
 
-#EXTINF:0, Ekushey TV
+#EXTINF:0, 71 CHANNEL
 
-https://cdn.sadman.ip-ddns.com/live/fGE3nvUKb7/ajUDk6G0Jy/96.ts
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=851852530&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCA1OjAxOjA1IEFNJmhhc2hfdmFsdWU9cXhjTWcydU4zSFRZMGZYYmdqNS9nUT09JnZhbGlkbWludXRlcz01MCZpZD01
 
 #EXTINF:0,Dipto TV
 
@@ -41,8 +41,8 @@ https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
-#EXTINF:0,Gaan Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:0, NEWS 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?nimblesessionid=851859895&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNCA1OjQ2OjI5IEFNJmhhc2hfdmFsdWU9dFhrZ3ZzSTdBamRGbFBydGZTZjlWdz09JnZhbGlkbWludXRlcz01MCZpZD01
 
 #EXTINF:0, BTV NEWS
 
@@ -60,9 +60,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 https://vokta.raytahost.com/live/voktatv/chunklist_w1239735664.m3u8
 
-#EXTINF:0, DBC NEWS
+#EXTINF:0, HBO
 
-https://starshare.live/live/KVSingh/KVSingh/420.m3u8
+hhttps://cdn1.tvmienphi.xyz:8444/live/hbo/index.m3u8?token=7HhG2ZqtOq9b7Ya9_NYaBQ&e=1739865388
 
 #EXTINF:0,DURONTO TV
 
