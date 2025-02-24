@@ -4,9 +4,9 @@
 
 https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5
 
-#EXTINF:0, 71 CHANNEL
+#EXTINF:0, Duronto TV
 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor.stream/live-orgin/ekattor.stream/chunks.m3u8?nimblesessionid=851852530&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNCA1OjAxOjA1IEFNJmhhc2hfdmFsdWU9cXhjTWcydU4zSFRZMGZYYmdqNS9nUT09JnZhbGlkbWludXRlcz01MCZpZD01
+p://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Dipto TV
 
@@ -44,9 +44,9 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:0, NEWS 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?nimblesessionid=851859895&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNCA1OjQ2OjI5IEFNJmhhc2hfdmFsdWU9dFhrZ3ZzSTdBamRGbFBydGZTZjlWdz09JnZhbGlkbWludXRlcz01MCZpZD01
 
-#EXTINF:0, BTV NEWS
+#EXTINF:0, T sports
 
-http://suprino.xyz:80/live/PMF3J9X/BV7HG8H/928141.m3u8
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, Boishaki TV
 
