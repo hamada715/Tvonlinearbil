@@ -34,6 +34,16 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 #EXTINF:0, Star Jalsha 2
 https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 
+#EXTINF:0, Star Jalsha 2
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+
+#EXTINF:0, CNN
+http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+
+#EXTINF:0, BBC Cartoon
+http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:0, Zee Bangla
 https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
 
