@@ -12,13 +12,16 @@ p://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:0, Somoy TV
+#EXTINF:0, Channel 9
 
-https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,SA TV
+#EXTINF:0,Ekhon TV
 
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,Somoy TV
+http://10.90.90.201:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=8f6ba0276730d0c86411bd7fdb5bd96e8979aa6d-e6565d3725498514ac3a3f8879b5082e-1741951337-1741940537
 
 #EXTINF:0,Star Jalsha $¢
 
@@ -45,14 +48,14 @@ http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0, Zee Bangla
-https://cdn.hoichoi24.com/INBD-ZEE-BANGLA-hoichoi24.com/video.m3u8
+http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,Ekushey TV
 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
-#EXTINF:0, NEWS 24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?nimblesessionid=851859895&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyNCA1OjQ2OjI5IEFNJmhhc2hfdmFsdWU9dFhrZ3ZzSTdBamRGbFBydGZTZjlWdz09JnZhbGlkbWludXRlcz01MCZpZD01
+#EXTINF:0, Nagorik TV
+http://tv.ebox.live:8083/NagorikTV/tracks-v1a1/mono.m3u8?token=db8628b7e2a97b181df67af30ff0db2355dbd7e8-072aaca651d46b541edb0128eadb583f-1741951179-1741940379
 
 #EXTINF:0, T sports
 
@@ -66,24 +69,22 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
-#EXTINF:0,VOKTA TV
+#EXTINF:0, 71 tv
 
-https://vokta.raytahost.com/live/voktatv/chunklist_w1239735664.m3u8
+ttp://tv.ebox.live:8083/EkattorTV/tracks-v1a1/mono.m3u8?token=14d1f1d297d8298ce1b31abb186fbec7e94f6f0e-3e26c617dfbcdddaefb9d2648de54d5e-1741951273-1741940473
 
-#EXTINF:0, HBO
+#EXTINF:0, NTV
+http://10.90.90.201:8082/NTV/tracks-v1a1/mono.m3u8?token=d4bed30bd46fd0b95b00df3d730844301d1e8482-eaff3d7436f3d35e3503dec022ad6cfa-1741951399-1741940599
 
-hhttps://cdn1.tvmienphi.xyz:8444/live/hbo/index.m3u8?token=7HhG2ZqtOq9b7Ya9_NYaBQ&e=1739865388
+#EXTINF:0,Jamuna TV
 
-#EXTINF:0,DURONTO TV
+http://10.90.90.201:8082/JAMUNA-TV/tracks-v1a1/mono.m3u8?token=185e41ce297e0d6a8db5eeabac3f009f6d65a63e-2074fa55bcd3c01978fa8eb0c3284478-1741951428-1741940628
 
-https://starshare.live/live/KVSingh/KVSingh/433.m3u8
+#EXTINF:0, ZEE Cinema
+http://10.90.90.201:8082/ZEE-CINEMA/tracks-v1a1/mono.m3u8?token=76958cea46798605c44c0f5bfc9cb9d3b3fb585a-e151f128ccff2da1c6fe7e40f979f691-1741951461-1741940661
 
-#EXTINF:0,Sun Bangla
-
-https://uspro.click/sunbangla/tracks-v1a1/mono.m3u8?amp;autoplay=true&token=c5d53d5d35dfe04b01ef9ee5910fc5ecfc54818e-2b5792d76c2df877e73431194c676d80-1733909788-1733898988
-
-#EXTINF:0,Masti Music
-https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+#EXTINF:0, GTV
+http://10.90.90.201:8082/GTV/tracks-v1a1/mono.m3u8?token=5c5ba56d721a10b0195ad16b61b0f47d85efe2c0-b1744c103bac6ae16dc80a7b19ad1584-1741951495-1741940695
 
 #EXTINF:0,Star Sports 2
 http://plusbox.tv:8080/StarSports2HD/tracks-a1/index.fmp4.m3u8?token=6213c1a1cd279d154d8e0d51e75de0b177fe6a52-ff1c70a584d3675f6749b94525d2d470-1734438774-1734427974
