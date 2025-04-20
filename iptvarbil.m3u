@@ -6,11 +6,11 @@ https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d1541
 
 #EXTINF:0, Duronto TV
 
-p://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Dipto TV
+#EXTINF:0, Jamuna TV
 
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, Channel 9
 
@@ -28,7 +28,7 @@ http://kst.moonplex.net:8080/CH3/index.m3u8
 
 #EXTINF:0,Star Jalsha
 
-http://atg100.xyz/live/UL33K17/SYC4T9D/76204.ts
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8?hdnts=
 
 #EXTINF:0,Star jalsha
 
