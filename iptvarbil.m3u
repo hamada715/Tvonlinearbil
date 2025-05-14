@@ -4,34 +4,32 @@
 
 https://ch24cdn.ncare.live/live/ch24live.3bdf2cd7/playlist.m3u8?t=1f748cb53d154126aca189962fe8f3a5
 
-#EXTINF:0, Duronto TV
+#EXTINF:0, Independent TV
 
-http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 
-#EXTINF:0, Jamuna TV
+#EXTINF:0, Desh TV
 
-http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
 
-#EXTINF:0, Channel 9
+#EXTINF:0, News 24 TV
 
-http://kst.moonplex.net:8080/CH6/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 
 #EXTINF:0,Ekhon TV
 
 http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Somoy TV
-http://10.90.90.201:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8?token=8f6ba0276730d0c86411bd7fdb5bd96e8979aa6d-e6565d3725498514ac3a3f8879b5082e-1741951337-1741940537
+#EXTINF:0,Ekattor TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 
 #EXTINF:0,Star Jalsha $¢
 http://kst.moonplex.net:8080/CH3/index.m3u8
 
 #EXTINF:0,Star Jalsha
-
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8?hdnts=
 
 #EXTINF:0,Star jalsha
-
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 #EXTINF:0, Star Jalsha 2
@@ -40,8 +38,9 @@ https://tiger-hub.vercel.app/Live_tv/Star_jalsha.m3u8
 #EXTINF:0, Star Jalsha 2
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, CNN
-http://kst.moonplex.net:8080/CH15/tracks-v1a1/mono.m3u8
+#EXTINF:0, Jamuna TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+
 
 #EXTINF:0, BBC Cartoon
 http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
