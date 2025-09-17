@@ -27,7 +27,7 @@ https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 http://watchindia.net:8880/live/49387/51659/2281.ts
 
 #EXTINF:0,Star Jalsha
-http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream/223.m3u8
 
 #EXTINF:0,Star jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
@@ -55,59 +55,59 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:0, Somoy Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:0, & Pictures
-https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd
+#EXTINF:-1, 01.Tofee
+http://103.73.107.122:3255/TSportsHD/index.m3u8
+#EXTINF:-1, 01.T Sports
+http://10.10.10.2/live/fnf002/index.m3u8
+#EXTINF:-1, 01.T Sports 2
+http://10.10.10.2/live/fnf003/index.m3u8
 
-#EXTINF:0, Music India:
-https://cdn-2.pishow.tv/live/226/226_1.m3u8
-
-#EXTINF:0,M20 Music:
-https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
-
-#EXTINF:0, T-Sports
-https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_720&res=720
-
-#EXTINF:0, DEEPTO TV:
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
-
-#EXTINF:0, Peace TV
-https://tvs1.aynaott.com/PeaceTVUrduHD/index.m3u8?hdnts=st=1734501173~exp=1734544373~acl=/buddyxiptv/*~data=103.57.121.91-WEB~hmac=14cee4097c8f31ea52f0bc294ff555ec7d08f5f9d7dadc13f2f10a46971c813a
-
-#EXTINF:0, Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-
-#EXTINF:0, CARTOON_NETWORK
-https://fl6.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:0, Asian TV
-https://app.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
-
-#EXTINF:0, Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1237926012.m3u8
-
-#EXTINF:0, MusicHLS
-https://mntv.livebox.co.in/musichls/live.m3u8
-
-#EXTINF:0,  Joo Music
-https://livecdn.live247stream.com/joomusic/tv/joomusic/stream/chunks.m3u8?nimblesessionid=201834827
-
-#EXTINF:0, Desi TV
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
-
-#EXTINF:0, KIDS FLIX
-https://stream.ads.ottera.tv/cl/241223ctkg8mbf4asoqlktbu90/640x360_350000_2_f.m3u8?i=475_50
-
-#EXTINF:0, Disney JR
-https://fl2.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.m3u8
-
-#EXTINF:0, Disney CN
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/chunklist_b1000000_vo.m3u8
-
-#EXTINF:0, beinSport Esp
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlistR240p.m3u8
-
-#EXTINF:0, MUSIC BANGLA
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/live-orgin/musicbangla.stream/chunks.m3u8?nimblesessionid=635487278&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyNCA2OjE4OjU1IEFNJmhhc2hfdmFsdWU9VXpZNkc2blRzcjYxcmZZNG1sT212Zz09JnZhbGlkbWludXRlcz01MCZpZD01
+#EXTINF:-1, 02.Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1, 03.BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 04.Jumuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 05.71
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 07.Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 08.Somoi
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 09.indepen
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 10.Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 11.NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 12.ATN bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 13.Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 14.Dipto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 ,15.Jolsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
+#EXTINF:-1 ,16.Z Banhla Cenema
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,17.Sony ATT
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,18.Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,19.Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 ,20.S Bangla
+https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
+#EXTINF:-1 ,21.Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 ,22.Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 ,23. star Jolsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+#EXTINF:-1 ,23. star Sports
+http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1 ,24.Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
 
 #EXTINF:0, BBC EARTH
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
