@@ -29,11 +29,11 @@ http://stream247.live:8080/starjalsha/index.m3u8
 #EXTINF:0,Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
-#EXTINF:0,Star Jalsha
+#EXTINF:0,Star Jalsha 25
 https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760204491&token=fe7c0ea56d1c2de3332fea320e6826e6&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:0,Star Jalsha
-http://stream247.live:8080/starjalsha/index.m3u8
+https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760204491&token=fe7c0ea56d1c2de3332fea320e6826e6&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:0,Star Jalsha
 http://tv.bdiptv.store:80/live/restreauuX58y/refstream/223.m3u8
