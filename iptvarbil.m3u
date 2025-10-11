@@ -26,16 +26,13 @@ https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0,Star Jalsha $¢
 http://stream247.live:8080/starjalsha/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+#EXTINF:0,Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://starshare.org:8080/live/xpGPEBsE6y/adorable3drawer/23218.ts
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://stvlive.net:8080/starjalsha/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-https://aynapubluc.vercel.app/api/stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha
+#EXTINF:0,Star Jalsha
+hhttps://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760204491&token=fe7c0ea56d1c2de3332fea320e6826e6&u=7a511720-17fc-44bc-a9a7-9222de71898c
+
+#EXTINF:0,Star Jalsha
 http://stream247.live:8080/starjalsha/index.m3u8
 
 #EXTINF:0,Star Jalsha
@@ -43,9 +40,6 @@ http://tv.bdiptv.store:80/live/restreauuX58y/refstream/223.m3u8
 
 #EXTINF:0,Star jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
-
-#EXTINF:0, Star Jalsha 2
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:0, Star Jalsha 2
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8
@@ -67,8 +61,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:0, Somoy Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 
-#EXTINF:-1, 01.Tofee
-http://103.73.107.122:3255/TSportsHD/index.m3u8
+#EXTINF:-1, Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1, 01.T Sports
 http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1, 01.T Sports 2
@@ -104,8 +98,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,17.Sony ATT
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,18.Sun Bangla
-https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,18. 9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
 #EXTINF:-1 ,19.Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,20.S Bangla
