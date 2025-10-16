@@ -24,25 +24,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0,Star Jalsha $¢
-http://stream247.live:8080/starjalsha/index.m3u8
+https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1760637629&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=14be809ddb00b3a635db6a6069fc8eba
 
 #EXTINF:0,Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
-#EXTINF:0,Star Jalsha 25
-https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760204491&token=fe7c0ea56d1c2de3332fea320e6826e6&u=7a511720-17fc-44bc-a9a7-9222de71898c
-
-#EXTINF:0,Star Jalsha
-https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760204491&token=fe7c0ea56d1c2de3332fea320e6826e6&u=7a511720-17fc-44bc-a9a7-9222de71898c
-
-#EXTINF:0,Star Jalsha
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream/223.m3u8
-
 #EXTINF:0,Star jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
-
-#EXTINF:0, Star Jalsha 2
-https://tvsen7.aynascope.net/sjhdbd/tracks-v1a1/mono.ts.m3u8?e=1760205028&token=219e6bde6a8ea210b05ec40d47bdff2c&u=7a511720-17fc-44bc-a9a7-9222de71898c
 
 #EXTINF:0, RTV
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
@@ -94,22 +82,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 ,15.Jolsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
-#EXTINF:-1 ,16.Z Banhla Cenema
-https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,16.Z RED Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,17.Sony ATT
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,18. 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:-1 ,19.Enter10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 ,19. Pluto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d
 #EXTINF:-1 ,20.S Bangla
 https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
-#EXTINF:-1 ,21.Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 , B4U
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 ,22.Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 ,23. star Jolsha HD
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+#EXTINF:-1 ,23. Classic Cartoon
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 ,23. star Sports
 http://10.10.10.2/live/fnf004/index.m3u8
 #EXTINF:-1 ,24.Zee Bangla
