@@ -38,12 +38,12 @@ https://sonamul3535.vercel.app/Star-jalsha-HD.m3u8
 #EXTINF:0, RTV
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:0, Mohona Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
+#EXTINF:0, Sanget Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
-#EXTINF:0, Zee Bangla
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/435.ts
+#EXTINF:0, Shermaro TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:0, Zee Bangla
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -52,63 +52,24 @@ https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
-#EXTINF:0, Somoy Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:0, Sony TV
+https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1771573336&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3861c37549ae31b9e008b21a083fd35
 
 #EXTINF:-1, Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1, 01.T Sports
-http://10.10.10.2/live/fnf002/index.m3u8
-#EXTINF:-1, 01.T Sports 2
-http://10.10.10.2/live/fnf003/index.m3u8
+#EXTINF:-1, Zee Bangla
+https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla/index.m3u8?token=6ff4ac71d0a2590191eb5973330a72acfaa91aae-1cef50d98c837ca1c3543fd749034f1c-1771569683-1771566083
+#EXTINF:-Sony Pix
+https://edge2.roarzone.info:8445/roarzone/edge3/sony-pix-hd/index.m3u8?token=43b18dc423f04d20ccc7abd2d525f59152fea39a-a23aac9874ba301ad0693f0af93889f6-1771569683-1771566083
 
-#EXTINF:-1, 02.Ten Cricket
-https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1, 03.BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 04.Jumuna
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 05.71
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 07.Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 08.Somoi
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 09.indepen
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 10.Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 11.NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 12.ATN bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 13.Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 14.Dipto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,15.Jolsha Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
-#EXTINF:-1 ,16.Z RED Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,17.Sony ATT
+#EXTINF:-1, Doraemon TV
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1, Movies TV
+https://cdn-2.pishow.tv/live/228/228_1.m3u8
+#EXTINF:-1, Gopal Bhar
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,18. 9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:-1 ,19. Pluto
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f5f82-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=95e1f29c-bf6d-41bb-9fce-486049aaae5d
-#EXTINF:-1 ,20.S Bangla
-https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
-#EXTINF:-1 , B4U
-https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 ,22.Amar Bangla
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 ,23. Classic Cartoon
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
-#EXTINF:-1 ,23. star Sports
-http://10.10.10.2/live/fnf004/index.m3u8
-#EXTINF:-1 ,24.Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
-
 #EXTINF:0, BBC EARTH
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
