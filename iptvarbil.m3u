@@ -24,16 +24,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0,Star Jalsha $¢
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+http://103.144.89.251:8082/STAR.JALSHA.HD/tracks-v1a1/mono.m3u8?token=3982a1935a402519002733cf541658b305fba000-031175de8dea65a7a5de474f32d80e8b-1772992924-1772982124
 
 #EXTINF:0,Star Jalsha
 http://103.175.242.10:8080/starjalsha/index.m3u8
 
 #EXTINF:0,Star Jalsha HD
-http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/index.m3u8?token=e7a601480bb4692887e19225b356ce5a331f8b75-652d271fbb00f1491905bcdb8973ce5d-1772984092-1772980492
 
 #EXTINF:0,Star jalsha
-http://103.182.170.32:8888/play/a046
+https://tvsen7.aynascope.net/sjhdbd/index.m3u8?e=1772987503&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=12568b04f1e2370dcaae115b995a2630
 
 #EXTINF:0, RTV
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
