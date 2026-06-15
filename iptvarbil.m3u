@@ -10,7 +10,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:0, Somoy TV
 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, ATN News
 
