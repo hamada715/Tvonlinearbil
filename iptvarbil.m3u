@@ -33,17 +33,17 @@ http://103.59.176.72:8083/live2/video.m3u8?token=123
 https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8?token=37797c343e887cb3e8029f962057722023f7bc6e-284cd0c9c0580f26cde0d444e0f0b7d8-1777139708-1777128908
 
 #EXTINF:0,Star jalsha
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+http://103.89.248.14:8082/Star_jalsha/tracks-v1/index.fmp4.m3u8?token=c56cceb6e21bf12897600fc2a55c09131607f514-16b903d3fe6ee53c0408d3703e11e706-1782233267-1782222467
 
-#EXTINF:0, T-sports
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:0, BTV
+http://198.195.239.50:8095/btv/video.m3u8
 
 #EXTINF:0, Sanget Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
 #EXTINF:0, WC2026
-http://46.101.169.21/ch299/index.m3u8
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, Zee Bangla
 https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
