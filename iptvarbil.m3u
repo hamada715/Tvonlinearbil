@@ -55,8 +55,10 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 #EXTINF:0, Sony TV
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1771573336&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3861c37549ae31b9e008b21a083fd35
 
-#EXTINF:-1, D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1, T Sports
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1, Fussball
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1, Zee Bangla
 https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla/index.m3u8?token=6ff4ac71d0a2590191eb5973330a72acfaa91aae-1cef50d98c837ca1c3543fd749034f1c-1771569683-1771566083
 #EXTINF:-Sony Pix
