@@ -42,7 +42,7 @@ http://198.195.239.50:8095/btv/video.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:0, WC 2026 BEINmatch
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:0, WC2026
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
@@ -55,8 +55,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:0, Toffe
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782601494~Starts=1782515094~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=qlHj7fCrU2lc87vFRjWnOjgHI2LrpsBzF57ROgyyHRsOlxB39Y_mPlqiqy2q708nosXHNkuqkftYOdD4-bMMDg
-#EXTINF:0, Toffe
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/index.m3u8?edge-cache-token=Expires=1782580651~Starts=1782566251~URLPre
+#EXTINF:0, TSports
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8?nocache=1782578566351
 #EXTINF:-1, T Sports
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1, Fussball
