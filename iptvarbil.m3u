@@ -30,19 +30,21 @@ https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
 http://103.59.176.72:8083/live2/video.m3u8?token=123
 
 #EXTINF:0,Star Jalsha HD
-https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8?token=37797c343e887cb3e8029f962057722023f7bc6e-284cd0c9c0580f26cde0d444e0f0b7d8-1777139708-1777128908
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
 
 #EXTINF:0,Star jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:0, BTV
-http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:0, Fifa wc
+http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
 
 #EXTINF:0, Sanget Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:0, WC 2026 BEINmatch
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
+#EXTINF:0, WC2026
+http://fastshare1.com:8080//live/25711345/late8airline/688287.ts
 #EXTINF:0, WC2026
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
@@ -54,9 +56,9 @@ https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:0, Toffe
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/index.m3u8?edge-cache-token=Expires=1782601494~Starts=1782515094~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=qlHj7fCrU2lc87vFRjWnOjgHI2LrpsBzF57ROgyyHRsOlxB39Y_mPlqiqy2q708nosXHNkuqkftYOdD4-bMMDg
+https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
 #EXTINF:0, TSports
-https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8?nocache=1782578566351
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, T Sports
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1, Fussball
