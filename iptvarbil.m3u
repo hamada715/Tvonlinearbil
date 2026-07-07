@@ -36,7 +36,7 @@ http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 
 #EXTINF:0, Fifa wc
-http://93.93.113.95:25461/live/TV-Berati/XtreamCodes/495.ts
+http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, Sanget Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -44,7 +44,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:0, WC 2026 BEINmatch
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:0, WC2026
-http://fastshare1.com:8080//live/25711345/late8airline/688287.ts
+http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8
 #EXTINF:0, WC2026
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
