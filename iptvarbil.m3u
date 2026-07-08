@@ -42,9 +42,11 @@ http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:0, WC 2026 BEINmatch
-https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
+http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=2077007&extension=ts&play_token=YMLPFnZVnl
+
 #EXTINF:0, WC2026
-http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8
+http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=2077001&extension=ts&play_token=ahSO6oxMy9
+
 #EXTINF:0, WC2026
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 
