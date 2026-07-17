@@ -24,7 +24,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0,Star Jalsha $¢
-http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=a241a41b730b7b66c0f260bbb176736c13d7172a-4dc9986fa4f6a1594028abdbf1b013ea-1783766090-1783754990
+http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8?token=106d52ac928964a9ad2f3b43735f3828e5deb225-afa19e5dacea4231a61aee5476d14a8f-1784273852-1784263052
 
 #EXTINF:0,Star Jalsha
 http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=945575&extension=ts&play_token=xbCkQEhF3f
