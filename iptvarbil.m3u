@@ -58,13 +58,13 @@ https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:0, Toffe
-https://kazimmt.ami.bd/playlist/TF/TF-3.m3u8
+http://203.188.248.74:8080/105/index.m3u8?token=dd52cb335e60d3d756f8ef46113228bea56c63fd-74b3ffa4bd85f18c759a09ba29784134-1784271315-1784260515
 #EXTINF:0, TSports
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+http://203.188.248.74:8080/101/tracks-v1a1/mono.m3u8?token=98f486f5727f1779a94488e948ce02e7b3cd940d-5e76c8568d5e3b25fe5d29e57805dbfb-1784271222-1784260422
 #EXTINF:-1, T Sports
 http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1, Fussball
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1, Zee Bangla
 https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla/index.m3u8?token=6ff4ac71d0a2590191eb5973330a72acfaa91aae-1cef50d98c837ca1c3543fd749034f1c-1771569683-1771566083
 #EXTINF:-Sony Pix
