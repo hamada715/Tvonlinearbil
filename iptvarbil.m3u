@@ -1,24 +1,38 @@
 #EXTM3U
 
-#EXTINF:0, CHANNEL 24
+#EXTINF:0, Asian TV
 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+http://172.19.178.39:18190/asian_tv/index.fmp4.m3u8?token=7ecb7efd143400b925dba3f75543b3135856f8aa-e8e819a119387a69f21328313c475842-1786207617-1786196517
 
-#EXTINF:0, Independent TV
+#EXTINF:0, Boishaki TV
 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=6d5f547f7c32dcf1385ee1e47afe53834ebb3523-d0d045b398bc1e6fc0ed32eb21acd29b-1786207658-1786196558
 
-#EXTINF:0, Somoy TV
+#EXTINF:0, Channel I
 
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+http://172.19.178.39:18190/channel_i/index.fmp4.m3u8?token=86897407651380ff4f525e81f944480b6043c57d-e066552d1edf77e09e33fa7358386673-1786207682-1786196582
 
-#EXTINF:0, ATN News
+#EXTINF:0, Desh TV
 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+http://172.19.178.39:18190/desh_tv/index.fmp4.m3u8?token=1e5e556f079db0af7118241f5c409836baa367e3-78b418211de02ed3458519440f70e76e-1786207702-1786196602
 
-#EXTINF:0, Jamuna Tv
+#EXTINF:0, Somoy Tv
 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=somoy_tv&format=.m3u8
+
+
+#EXTINF:0, DBC News
+http://cdn.moviemazic.xyz:8083/DBCNews/index.m3u8?token=a7d1469063d1a93402343c67860c80c62b68e269-1490f3da3aebe417830110aeff9ebcf6-1786207822-1786197022
+
+#EXTINF:0,Ekushey TV
+
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+
+#EXTINF:0, Channel 24
+http://cdn.moviemazic.xyz:8083/channel24/index.m3u8?token=58586a3e07fbd1a05eaacc6f5ac92e6848ccbd1c-31370f2d9ff783a984ee137cccd61d0a-1786207847-1786197047
+#EXTINF:0, News 24
+http://cdn.moviemazic.xyz:8083/News24/index.m3u8?token=0b581aa7569eb96253b45faa2ba5eabb846181d6-7cb6b7d9ab077039a3cd801ac8a38a31-1786207867-1786197067
+
 
 #EXTINF:0,Star JALSHA
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
@@ -35,49 +49,19 @@ http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8?token=a9d17ac1b122c1ec2b8
 #EXTINF:0,Star jalsha
 http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
 
-#EXTINF:0, Fifa wc
-http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8
+#EXTINF:0, B4U
+http://172.19.178.142:18190/b4u_music/index.fmp4.m3u8?token=9f078fca8b6f0546f660635bdb40be7ae2bce6e8-37678140b3aca7aab0a151a6363d1762-1786207740-1786196640
 
 #EXTINF:0, Sanget Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:0, WC 2026 BEINmatch
-http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=2077007&extension=ts&play_token=YMLPFnZVnl
+#EXTINF:0, Sony Sports 10
+http://172.19.178.49:18190/sony_sports_ten_1_hd/index.fmp4.m3u8?token=95f8b846c26fcc763fbfcb994f2f97424c949921-ddb98e639cc10598f99bcdc62f12d230-1786207787-1786196687
 
-#EXTINF:0, WC2026
-http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=2077001&extension=ts&play_token=ahSO6oxMy9
+#EXTINF:0, CN
+http://172.19.178.143:18190/cn/index.fmp4.m3u8?token=c7518991cca595b04a43f77b52b6304c53beeaa1-c2930b2c1338bfbc07280a5e9704aa84-1786207822-1786196722
 
-#EXTINF:0, WC2026
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Sony Entertainment
+http://172.19.178.142:18190/sony_ent_hd/index.fmp4.m3u8?token=fb4c84667522c1a7c33e819e0659a5dc6e4904b9-fde7713160f6a3160fd38df4e337e5bd-1786207844-1786196744
 
-#EXTINF:0, Zee Bangla
-https://tvsen1.aynaott.com/PNEb3v2q6GBk/index.m3u8
-
-#EXTINF:0,Ekushey TV
-
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
-
-#EXTINF:0, Toffe
-http://203.188.248.74:8080/105/index.m3u8?token=dd52cb335e60d3d756f8ef46113228bea56c63fd-74b3ffa4bd85f18c759a09ba29784134-1784271315-1784260515
-#EXTINF:0, TSports
-http://203.188.248.74:8080/101/tracks-v1a1/mono.m3u8?token=98f486f5727f1779a94488e948ce02e7b3cd940d-5e76c8568d5e3b25fe5d29e57805dbfb-1784271222-1784260422
-#EXTINF:-1, T Sports
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1, Fussball
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1, Zee Bangla
-https://edge2.roarzone.info:8445/roarzone/edge3/zee-bangla/index.m3u8?token=6ff4ac71d0a2590191eb5973330a72acfaa91aae-1cef50d98c837ca1c3543fd749034f1c-1771569683-1771566083
-#EXTINF:-Sony Pix
-https://edge2.roarzone.info:8445/roarzone/edge3/sony-pix-hd/index.m3u8?token=43b18dc423f04d20ccc7abd2d525f59152fea39a-a23aac9874ba301ad0693f0af93889f6-1771569683-1771566083
-
-#EXTINF:-1, Doraemon TV
-https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
-#EXTINF:-1, Movies TV
-https://cdn-2.pishow.tv/live/228/228_1.m3u8
-#EXTINF:-1, Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,18. 9XM
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:0, BBC EARTH
-https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 
