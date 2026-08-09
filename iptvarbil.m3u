@@ -2,19 +2,19 @@
 
 #EXTINF:0, Asian TV
 
-http://172.19.178.39:18190/asian_tv/index.fmp4.m3u8?token=7ecb7efd143400b925dba3f75543b3135856f8aa-e8e819a119387a69f21328313c475842-1786207617-1786196517
+https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0, Boishaki TV
 
-http://172.19.178.39:18190/boishakhi_tv/index.fmp4.m3u8?token=6d5f547f7c32dcf1385ee1e47afe53834ebb3523-d0d045b398bc1e6fc0ed32eb21acd29b-1786207658-1786196558
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, Channel I
+#EXTINF:0, Independent TV
 
-http://172.19.178.39:18190/channel_i/index.fmp4.m3u8?token=86897407651380ff4f525e81f944480b6043c57d-e066552d1edf77e09e33fa7358386673-1786207682-1786196582
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:0, Desh TV
+#EXTINF:0, Jamuna TV
 
-http://172.19.178.39:18190/desh_tv/index.fmp4.m3u8?token=1e5e556f079db0af7118241f5c409836baa367e3-78b418211de02ed3458519440f70e76e-1786207702-1786196602
+http://cdn.moviemazic.xyz:8083/JamunaTV/index.m3u8?token=221d8fa7895ad979c90633625b86989b22a3fa72-5391975bc0ff504ea5f262417735a90f-1786296512-1786285712
 
 #EXTINF:0, Somoy Tv
 
