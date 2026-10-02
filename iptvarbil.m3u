@@ -47,7 +47,7 @@ http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=945575&extension=ts&
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8?token=a9d17ac1b122c1ec2b844a48a6ba601197c7ef57-6d87dd00320af8fe73938b5763d25d29-1783765663-1783754863
 
 #EXTINF:0,Star jalsha
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
+http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8?token=4c0cb89aca52b54abdceaac0dd9ee15505b29e34-f97cc8ad7cccdebb71234cc17dc8b709-1790926471-1790915671
 
 #EXTINF:0, B4U
 http://172.19.178.142:18190/b4u_music/index.fmp4.m3u8?token=9f078fca8b6f0546f660635bdb40be7ae2bce6e8-37678140b3aca7aab0a151a6363d1762-1786207740-1786196640
